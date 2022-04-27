@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amaanhaider" alt="amaanhaider" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/amaan_haiderrr" target="blank"><img src="https://img.shields.io/twitter/follow/amaan_haiderrr?logo=twitter&style=for-the-badge" alt="amaan_haiderrr" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/amaan_haiderrr" target="blank"><img src="https://img.shields.io/twitter/follow/amaan_haiderrr?logo=twitter&style=for-the-badge" alt="amaan_haiderrr" /></a> </p> -->
 
 
 - 🌍  I'm based in Noida
@@ -17,6 +17,8 @@
 - 📫 How to reach me **amaanhaider270@gmail.com**
 
 - 🖥️  See my portfolio at https://amaan-haider.netlify.app/
+
+-⚡ Fun fact: Passion for coding, I like listenig musics enjoy playing Sports , Working Out and reading books.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
