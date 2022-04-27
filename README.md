@@ -18,6 +18,9 @@
 
 - 🖥️  See my portfolio at https://amaan-haider.netlify.app/
 
+- 📝 Sometimes i write - https://medium.com/@amaanhaider
+
+
 - ⚡ Fun fact: Passion for coding, I like listenig musics enjoy playing Sports , Working Out and reading books.
 
 <h3 align="left">Connect with me:</h3>
