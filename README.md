@@ -7,13 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/amaan_haiderrr" target="blank"><img src="https://img.shields.io/twitter/follow/amaan_haiderrr?logo=twitter&style=for-the-badge" alt="amaan_haiderrr" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack at Masai SChool**
+
+- 🌍  I'm based in Noida
+
+- 🧠 I’m currently learning **MERN stack at Masai SChool**
 
 - 💬 Ask me about **HTML,CSS,JAVSCRIPT,REACT,MONGODB, EXPRESS,NODE JS**
 
 - 📫 How to reach me **amaanhaider270@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1X3zZ0bTU8CDEccR4gl__UiG51YnHQ2TuU2sVqchrAiI/export?format=pdf](https://docs.google.com/document/d/1X3zZ0bTU8CDEccR4gl__UiG51YnHQ2TuU2sVqchrAiI/export?format=pdf)
+- 📄 Know about my experiences 
+
+- 🖥️  See my portfolio at https://amaan-haider.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
