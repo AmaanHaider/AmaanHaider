@@ -8,7 +8,7 @@
 <!-- <p align="left"> <a href="https://twitter.com/amaan_haiderrr" target="blank"><img src="https://img.shields.io/twitter/follow/amaan_haiderrr?logo=twitter&style=for-the-badge" alt="amaan_haiderrr" /></a> </p> -->
 
 
-- 🌍  I'm based in Noida
+- 🌍  I'm based in Noida,INDIA
 
 - 🧠 I’m currently learning **MERN stack at Masai SChool**
 
