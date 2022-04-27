@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **amaanhaider270@gmail.com**
 
-- 📄 Know about my experiences 
-
 - 🖥️  See my portfolio at https://amaan-haider.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
@@ -43,8 +41,14 @@
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaanhaider&show_icons=true&locale=en&layout=compact" alt="amaanhaider" /></p>
+### Badges
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amaanhaider&show_icons=true&locale=en" alt="amaanhaider" /></p>
+<b>My GitHub Stats</b>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amaanhaider&" alt="amaanhaider" /></p>
+<a href="http://www.github.com/amaanhaider"><img src="https://github-readme-stats.vercel.app/api?username=amaanhaider&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="amaanhaider's GitHub stats" /></a>
+
+<a href="http://www.github.com/amaanhaider"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amaanhaider&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/amaanhaider"><img src="https://activity-graph.herokuapp.com/graph?username=amaanhaider&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/amaanhaider" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaanhaider&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
