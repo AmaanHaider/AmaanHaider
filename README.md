@@ -21,7 +21,7 @@
 - 📝 Sometimes i write - https://medium.com/@amaanhaider
 
 
-- ⚡ Fun fact: Passion for coding, I like listenig musics enjoy playing Sports , Working Out and reading books.
+- ⚡ Fun fact: Passion for coding, I like listenig musics enjoy playing Sports and Working Out.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
